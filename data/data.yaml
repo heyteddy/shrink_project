@@ -1,0 +1,12 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 8
+names: ['bYott', 'honeyAmond', 'hotBreak', 'ohYes', 'onionRing', 'ozingZip', 'pokaChip', 'shrimpGGang']
+
+roboflow:
+  workspace: shrink
+  project: kt_fire_ver2
+  version: 6
+  license: Public Domain
+  url: https://universe.roboflow.com/shrink/kt_fire_ver2/dataset/6
