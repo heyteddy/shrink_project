@@ -6,6 +6,7 @@
 - 담당역할 : 객체 탐지 모델 훈련, 상품 데이터 수집, 데이터 전처리, 데이터 증강
 - 성과 : map값을 0.995까지 향상, 최저 정확도 0.96, 최대 정확도 1.0까지 향상
 - 소스코드 : yolov8_test.ipynb
+- Site : https://www.dietshrink.site/
 ![슬라이드1](https://github.com/user-attachments/assets/4963d057-ffad-4109-be2a-d08c2f5bced2)
 ![슬라이드5](https://github.com/user-attachments/assets/8746391c-fb2a-476b-b231-74a9d77bd283)
 ![슬라이드6](https://github.com/user-attachments/assets/5da9a3c1-1941-4257-baf4-959c1ea57e4c)
